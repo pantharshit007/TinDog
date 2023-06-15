@@ -2,4 +2,4 @@
 
 ## Live Demo
 
-Check out the live demo of TinDog [here](https://pantharshit007.github.io/TinDog//).
+Check out the live demo of TinDog [here](https://pantharshit007.github.io/TinDog//){:target="_blank"}.
